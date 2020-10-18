@@ -30,7 +30,7 @@ pkg.name
 from indexPy.api import PackageInfo # Import the module
 pkg = PackageInfo("indexPy") # Save the information
 pkg.author
->>> 'Ángel Carias'
+>>> 'Angel Carias'
 pkg.name
 >>> 'indexPy'
 ```
