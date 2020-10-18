@@ -1,7 +1,7 @@
 from setuptools import setup
 import re
 
-with open('colorix\__init__.py') as f:
+with open('indexPy\__init__.py') as f:
     version = re.search(r'^__version__\s*=\s*[\'"]([^\'"]*)[\'"]', f.read(), re.MULTILINE).group(1)
 
 print("Setup for version: ", version)
@@ -13,7 +13,7 @@ with open("README.md", "r") as f:
 
 setup(name="indexPy",
       packages=["indexPy"],
-      author='Ángel Carias',
+      author='Angel Carias',
       author_email=None,
       version=version,
       description="Python3 wrapper for PyPi API",
