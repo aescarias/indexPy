@@ -1,4 +1,4 @@
-# colorix
+# indexPy
 
 indexPy is a Python3 module designed for working with PyPI API; an API for viewing Python package data.
 
