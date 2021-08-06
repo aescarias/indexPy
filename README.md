@@ -1,5 +1,7 @@
 # indexPy
 
+> Replacement Notice: This package is no longer maintained and has being replaced by it's successor [PyPiWrap](https://github.com/angelCarias/pypiwrap)
+
 indexPy is a Python3 module designed for working with PyPI API; an API for viewing Python package data.
 
 ## Installation
